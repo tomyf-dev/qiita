@@ -1,3 +1,6 @@
+# Qiita
+.remote
+
 # Laravel dev/build outputs
 public/hot
 public/storage
